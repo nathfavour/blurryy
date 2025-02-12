@@ -86,4 +86,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [nathfavour](https://github.com/nathfavour)
